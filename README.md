@@ -30,4 +30,4 @@ Designed and built using AI-assisted development with **Emergent**.
 ## 📫 Contact
 
 📧 Email: sairajmule99@gmail.com  
-🐙 GitHub: sairajmule99gmail.com
+🐙 GitHub: sairajmule99-prog
